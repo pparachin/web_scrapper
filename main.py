@@ -7,7 +7,7 @@ from datetime import datetime
 from mysql.connector import Error
 from concurrent.futures import ThreadPoolExecutor
 
-MAX_THREADS = 4
+MAX_THREADS = 5
 
 
 def main():
